@@ -6,7 +6,7 @@ import { Button } from "./components/ui/button";
 function App() {
  
 console.log("hi")
-
+console.log("temp")
  return (
     <div className="px-7 text-gray-700">
       <section className=" bg-purple-400 rounded-lg">
