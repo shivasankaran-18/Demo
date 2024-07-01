@@ -5,7 +5,7 @@ import { Button } from "./components/ui/button";
 
 function App() {
  
-
+console.log("hi")
 
  return (
     <div className="px-7 text-gray-700">
